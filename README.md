@@ -1,5 +1,18 @@
 # ADV_ECG
-Code for Adversarial Examples in Electrocardiograms
+Code for Deep learning models for electrocardiograms are susceptible to adversarial attack
+
+If you use the code in your research, please cite our paper:
+
+@article{han2020deep,
+  title={Deep learning models for electrocardiograms are susceptible to adversarial attack},
+  author={Han, Xintian and Hu, Yuxuan and Foschini, Luca and Chinitz, Larry and Jankelson, Lior and Ranganath, Rajesh},
+  journal={Nature medicine},
+  volume={26},
+  number={3},
+  pages={360--363},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
 
 The code is written in python 3.6 and pytorch 1.0.
 
