@@ -102,4 +102,4 @@ for i in range(len(totals)):
 print('total_numbers:', total_numbers)
 print('adv_numbers', adv_numbers)
 for i in range(len(totals)):
-    print(i, 'ratio', adv_numbers[i]*1.0/totals_numbers[i])
+    print(i, 'ratio', adv_numbers[i]*1.0/total_numbers[i])
