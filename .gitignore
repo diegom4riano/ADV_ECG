@@ -1,1 +1,16 @@
 data/raw_data.npy
+
+# Ignorar diretórios __pycache__
+__pycache__/
+utils/__pycache__/
+
+# Ignorar arquivos de configuração do sistema operacional
+.DS_Store
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de compilação
+*.pyc
+*.pyo
+*.pyd
